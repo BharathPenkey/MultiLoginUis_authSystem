@@ -2,7 +2,10 @@ import React from 'react'
 
 const controllers = () => {
   return (
-    <div>controllers</div>
+    <>
+    <div>controllers component</div>
+    </>
+   
   )
 }
 
