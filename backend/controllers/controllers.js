@@ -3,7 +3,7 @@ import React from 'react'
 const controllers = () => {
   return (
     <>
-    <div>controllers component</div>
+    <div>controllers component updates</div>
     </>
    
   )

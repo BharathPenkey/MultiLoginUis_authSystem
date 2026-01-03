@@ -2,8 +2,7 @@ import React from 'react'
 
 const authRoutes = () => {
   return (
-    <div>authRoutes component 
-      
+    <div>authRoutes component  
     </div>
   )
 }
